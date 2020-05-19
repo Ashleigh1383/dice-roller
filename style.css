@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+
+body{
+    background-image: url(rolling-dice.jpg);
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: cover;    
+    color: white;
+}
+
